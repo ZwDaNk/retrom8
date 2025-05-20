@@ -9,7 +9,6 @@
 * Clippit - lol
 * louknt/check cashed - Helped with the development of retrom8 and overall being a great friend.
 * Asymmetry/Chirality/Brandon (yes that chirality who invented modern script execution) - Being a great friend and also helping with the development of retrom8.
-* 137 - Being a great friend.
 * Chessboi420 - Being a great friend.
 * The users of retrom8 - Great people, and a lot of them are great friends. Some helped with the development of retrom8 too.
 ## The Loader
